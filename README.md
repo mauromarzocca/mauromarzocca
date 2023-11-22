@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![git-image](https://avatars.githubusercontent.com/u/57107500?v=4)
 <!--
 **mauromarzocca/mauromarzocca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+- 🔭 I’m currently working as a **developer at a Singapore Company**
+
+- 🌱 I’m currently learning **FrontEnd development and DevOps**
+
+- 💬 Ask me about **React, NextJS, NodeJS, MongoDB, Mongoose, Express, Firebase.**
+
+- 📫 How to reach me **contact@satnaing.dev**
+
+- 🚀 My website 👉🏻 <a href="https://satnaing.dev" target="blank">https://satnaing.dev</a>
+
+- 📰 My blog 👉🏻 <a href="https://satnaing.dev/blog" target="blank">https://satnaing.dev/blog</a>
+
+
 -->
