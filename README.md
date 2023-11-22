@@ -1,6 +1,15 @@
 ### Hi there 👋
-<p style="align:center">![git-image](https://avatars.githubusercontent.com/u/57107500?v=4)</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+There!!!;My+name's+Mauro+Marzocca.;I'm+a+full-stack+developer." alt="typing intro">
+</p>
+
+![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauromarzocca&theme=tokyonight)
+
+
 <!--
+![git-image](https://avatars.githubusercontent.com/u/57107500?v=4)
+
 **mauromarzocca/mauromarzocca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
