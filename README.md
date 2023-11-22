@@ -1,8 +1,17 @@
 ### Hi there 👋
 
+---
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+There!!!;My+name's+Mauro+Marzocca.;I'm+a+full-stack+developer." alt="typing intro">
 </p>
+
+---
+
+- 🔭 I’m currently working as a **Cloud Engeneer**
+- 🚀 My website 👉🏻 <a href="https://mauromarzocca.github.io/mauroverse/" target="blank">**MauroVerse**</a>
+
+---
 
 ![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauromarzocca&theme=tokyonight)
 
@@ -24,7 +33,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-- 🔭 I’m currently working as a **developer at a Singapore Company**
+- 🔭 I’m currently working as a **Cloud Engeneer**
 
 - 🌱 I’m currently learning **FrontEnd development and DevOps**
 
