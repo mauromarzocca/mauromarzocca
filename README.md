@@ -1,5 +1,5 @@
 ### Hi there 👋
-![git-image](https://avatars.githubusercontent.com/u/57107500?v=4)
+<p style="align:center">![git-image](https://avatars.githubusercontent.com/u/57107500?v=4)</p>
 <!--
 **mauromarzocca/mauromarzocca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
