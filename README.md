@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+---
+![Profile View Counter](https://komarev.com/ghpvc/?username=mauromarzocca&color=green)
 ---
 
 <p align="center">
@@ -15,13 +18,12 @@
 
 <!-- ![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauromarzocca&theme=tokyonight)
  -->
-<p align="center">
+<div align="center">
 
 ![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauromarzocca&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118)
 ![Mauro's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mauromarzocca&layout=compact&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118)
 ![Mauro's stats](https://github-readme-streak-stats.herokuapp.com/?user=farshadz1997&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118)
-</p>
-
+</div>
 <!--
 ![git-image](https://avatars.githubusercontent.com/u/57107500?v=4)
 
