@@ -24,6 +24,11 @@
 ![Mauro's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mauromarzocca&layout=compact&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118)
 ![Mauro's stats](https://github-readme-streak-stats.herokuapp.com/?user=farshadz1997&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118)
 </div>
+
+### My GitHub Wrapped 2024
+
+![github_wrapped](github-wrapped.png)
+
 <!--
 ![git-image](https://avatars.githubusercontent.com/u/57107500?v=4)
 
