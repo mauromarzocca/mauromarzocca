@@ -491,18 +491,15 @@ Designing and maintaining secure, scalable and automated infrastructures with a 
 
 # GitHub Analytics
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/mauromarzocca/mauromarzocca/main/github-metrics.svg">
-</div>
+<p align="center">
+  <img width="100%" src="./github-metrics.svg"/>
+</p>
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mauromarzocca&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=mauromarzocca&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mauromarzocca&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
