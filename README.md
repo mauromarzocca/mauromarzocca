@@ -510,7 +510,7 @@ Designing and maintaining secure, scalable and automated infrastructures with a 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mauromarzocca&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mauromarzocca"/>
 
 </div>
 
