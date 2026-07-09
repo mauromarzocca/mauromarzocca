@@ -493,10 +493,7 @@ Designing and maintaining secure, scalable and automated infrastructures with a 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mauromarzocca&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauromarzocca&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://raw.githubusercontent.com/mauromarzocca/mauromarzocca/main/github-metrics.svg">
 </div>
 
 <br>
