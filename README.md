@@ -510,8 +510,6 @@ Designing and maintaining secure, scalable and automated infrastructures with a 
 
 # Contribution Snake
 
-> Configure the GitHub Action to generate the snake animation automatically.
-
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/mauromarzocca/mauromarzocca/output/github-contribution-grid-snake-dark.svg"/>
