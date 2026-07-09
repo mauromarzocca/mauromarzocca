@@ -523,13 +523,11 @@ Designing and maintaining secure, scalable and automated infrastructures with a 
 
 > Configure the GitHub Action to generate the snake animation automatically.
 
-```markdown
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/mauromarzocca/mauromarzocca/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
-```
 
 ---
 
