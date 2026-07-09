@@ -1,0 +1,116 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320">
+<stop offset="0%" stop-color="#0D1117"/>
+<stop offset="100%" stop-color="#111827"/>
+</linearGradient>
+
+<linearGradient id="accent" x1="0" y1="0" x2="1280" y2="0">
+<stop offset="0%" stop-color="#7C3AED"/>
+<stop offset="50%" stop-color="#4F46E5"/>
+<stop offset="100%" stop-color="#2563EB"/>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="8" result="blur"/>
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+
+</defs>
+
+<rect width="1280" height="320" rx="18" fill="url(#bg)"/>
+
+<rect x="0" y="0" width="1280" height="4" fill="url(#accent)"/>
+<rect x="0" y="316" width="1280" height="4" fill="url(#accent)"/>
+
+<circle cx="1110" cy="80" r="140"
+fill="none"
+stroke="#7C3AED"
+stroke-opacity="0.08"
+stroke-width="2"/>
+
+<circle cx="1130" cy="90" r="95"
+fill="none"
+stroke="#4F46E5"
+stroke-opacity="0.10"
+stroke-width="2"/>
+
+<circle cx="1145" cy="105" r="55"
+fill="none"
+stroke="#2563EB"
+stroke-opacity="0.15"
+stroke-width="2"/>
+
+<line x1="930" y1="260" x2="1220" y2="260"
+stroke="#7C3AED"
+stroke-opacity="0.25"/>
+
+<line x1="960" y1="240" x2="1220" y2="240"
+stroke="#4F46E5"
+stroke-opacity="0.18"/>
+
+<line x1="990" y1="220" x2="1220" y2="220"
+stroke="#2563EB"
+stroke-opacity="0.14"/>
+
+<text
+x="80"
+y="110"
+font-size="46"
+font-family="Segoe UI, Ubuntu, Arial"
+font-weight="700"
+fill="#FFFFFF">
+MAURO MARZOCCA
+</text>
+
+<text
+x="82"
+y="150"
+font-size="20"
+font-family="Segoe UI, Ubuntu, Arial"
+fill="#A5B4FC">
+Cloud &amp; Security Engineer
+</text>
+
+<text
+x="82"
+y="182"
+font-size="18"
+font-family="Segoe UI, Ubuntu, Arial"
+fill="#8B949E">
+DevOps • Infrastructure • Linux • Automation
+</text>
+
+<text
+x="82"
+y="235"
+font-size="16"
+font-family="Segoe UI, Ubuntu, Arial"
+fill="#C9D1D9">
+Building secure infrastructure, intelligent automation
+</text>
+
+<text
+x="82"
+y="258"
+font-size="16"
+font-family="Segoe UI, Ubuntu, Arial"
+fill="#C9D1D9">
+and reliable cloud solutions.
+</text>
+
+<rect
+x="80"
+y="285"
+width="220"
+height="4"
+rx="2"
+fill="url(#accent)"
+filter="url(#glow)"/>
+
+</svg>
