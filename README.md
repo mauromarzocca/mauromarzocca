@@ -1,63 +1,135 @@
-### Hi there 👋
-
+# Mauro Marzocca
 
 ---
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mauromarzocca&color=green)
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+There!!!;My+name's+Mauro+Marzocca.;I'm+a+full-stack+developer." alt="typing intro">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9,4F46E5,2563EB&height=220&section=header&text=Mauro%20Marzocca&fontColor=ffffff&fontSize=42"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Software+Engineer;DevOps+%7C+Automation;Linux+Enthusiast;AI+Explorer;Open+Source+Contributor"/>
+</p>
+
+<p align="center">
+
+![Profile](https://img.shields.io/badge/Profile-Software%20Engineer-6D28D9?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-4F46E5?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Expert-2563EB?style=for-the-badge)
+
 </p>
 
 ---
 
-- 🔭 I’m currently working as a **Cloud Engeneer**
-- 🚀 My website 👉🏻 <a href="https://mauromarzocca.github.io/mauroverse/" target="blank">**MauroVerse**</a>
+## About
+
+Software Engineer focused on automation, Linux infrastructure, DevOps, networking and AI-assisted development.
+
+### Open To
+- Open Source
+- Collaboration
+- DevOps
+- Automation
+- AI Engineering
 
 ---
 
-<!-- ![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauromarzocca&theme=tokyonight)
- -->
-<div align="center">
+# Tech Stack
 
-![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauromarzocca&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118)
-![Mauro's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mauromarzocca&layout=compact&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118)
-![Mauro's stats2](https://github-readme-streak-stats.herokuapp.com/?user=farshadz1997&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118)
+## Languages
+![Python](https://skillicons.dev/icons?i=python,bash,js,ts,java)
 
-</div>
+## Backend & DevOps
+![Stack](https://skillicons.dev/icons?i=docker,linux,git,github,postgres,mysql,nodejs,fastapi)
 
-### My GitHub Wrapped 2024
+## Cloud & Tooling
+![Tools](https://skillicons.dev/icons?i=aws,terraform,githubactions,vscode)
 
-![github_wrapped](github-wrapped.png)
+---
 
-<!--
-![git-image](https://avatars.githubusercontent.com/u/57107500?v=4)
+# AI / Automation
 
-**mauromarzocca/mauromarzocca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Domain | Level | Focus |
+|---|---|---|
+| AI | Advanced | LLM |
+| Automation | Advanced | Home Assistant |
+| DevOps | Advanced | Docker/Linux |
+| Networking | Advanced | Infrastructure |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Featured Projects
 
+<details>
+<summary><b>Home Assistant Automations</b></summary>
 
-- 🔭 I’m currently working as a **Cloud Engeneer**
+| Area | Details |
+|---|---|
+| Stack | Home Assistant, YAML |
+| Security | Local-first |
+| Impact | Smart Home |
 
-- 🌱 I’m currently learning **FrontEnd development and DevOps**
+Automation workflows and integrations.
 
-- 💬 Ask me about **React, NextJS, NodeJS, MongoDB, Mongoose, Express, Firebase.**
+</details>
 
-- 📫 How to reach me **contact@satnaing.dev**
+<details>
+<summary><b>Linux & DevOps Lab</b></summary>
 
-- 🚀 My website 👉🏻 <a href="https://satnaing.dev" target="blank">https://satnaing.dev</a>
+Containerized infrastructure experiments.
 
-- 📰 My blog 👉🏻 <a href="https://satnaing.dev/blog" target="blank">https://satnaing.dev/blog</a>
+</details>
 
+---
 
--->
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mauromarzocca&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauromarzocca&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=mauromarzocca&theme=tokyonight"/>
+</p>
+
+---
+
+# Current Focus
+
+```yaml
+learning:
+  - AI Engineering
+  - Kubernetes
+
+building:
+  - Home Assistant
+  - Automation
+  - DevOps
+
+exploring:
+  - LLM
+  - Cloud Native
+
+open_to:
+  - Open Source
+  - Collaboration
+```
+
+---
+
+# Connect
+
+- GitHub: https://github.com/mauromarzocca
+
+---
+
+> Engineering reliable software, one commit at a time.
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB,4F46E5,6D28D9&height=120&section=footer"/>
+</p>
