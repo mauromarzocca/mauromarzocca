@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Portfolio-Live-7C3AED?style=for-the-badge"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:MauroKL96@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-4F46E5?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -472,7 +472,7 @@ Designing and maintaining secure, scalable and automated infrastructures with a 
 ## Microsoft
 
 ![AZ900](https://img.shields.io/badge/AZ--900-Microsoft%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
+![SC900](https://img.shields.io/badge/SC--900-Microsoft%20Security,%20Compliance,%20and%20Identity%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ---
 
 ## Cisco
